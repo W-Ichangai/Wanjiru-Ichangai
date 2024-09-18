@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Mary Wanjiru Ichangai
-- 👀 I’m interested in Software Development and Networking... still a Student
-- 🌱 I’m currently learning Bachelor of Science in Computer Science
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software Development and Networking...
+- 🌱 I’m currently
+- 💞️ I’m looking to col
 - 📫 How to reach me E-mail( ichangai290@gmail.com )
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Am a martial art girlie😄
+
 
 <!---
 W-Ichangai/W-Ichangai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
