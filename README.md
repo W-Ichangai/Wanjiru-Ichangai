@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mary Wanjiru Ichangai
-- 👀 I’m interested in Software Development and Networking...
-- 🌱 I’m currently
-- 💞️ I’m looking to col
+- 👀 I’m interested in Software Development, Artificial Intelligence, Cybersecurity, Cloud computing and Networking Security, but still figuring out what to focus on
+- 🌱 I’m currently a student, Computer Science
+- 💞️ I’m looking to learn and network and grow
 - 📫 How to reach me E-mail( ichangai290@gmail.com )
 - 😄 Pronouns: she/her
 
